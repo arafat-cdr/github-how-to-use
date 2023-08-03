@@ -1,9 +1,3 @@
-*** Learn it from w3school.com and Apply this Here::
-
-Make a git Repo about it ....
-
-Then Start work on fiverr $500 Projects ..
-
 * Basic Of Git *
 > Git Pull
 * pull is a combination of 2 different commands:
